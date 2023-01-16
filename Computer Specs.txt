@@ -1,0 +1,16 @@
+Model Name:	MacBook Pro
+Model Identifier:	MacBookPro15,2
+Processor Name:	Quad-Core Intel Core i5
+Processor Speed:	2.3 GHz
+Number of Processors:	1
+Total Number of Cores:	4
+L2 Cache (per Core):	256 KB
+L3 Cache:	6 MB
+Hyper-Threading Technology:	Enabled
+Memory:	8 GB
+System Firmware Version:	1715.40.15.0.0 (iBridge: 19.16.10549.0.0,0)
+OS Loader Version:	540.40.4~45
+Serial Number (system):	C02X86PTJHC8
+Hardware UUID:	97688930-2ECE-5F77-BB0B-51A25ED6F109
+Provisioning UDID:	97688930-2ECE-5F77-BB0B-51A25ED6F109
+Activation Lock Status:	Disabled
