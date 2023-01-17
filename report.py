@@ -9,10 +9,10 @@ recursive = results["Recursive"]
 
 print(results)
 
-plt.title("Difference in Time Between Recursive and Iterative \n power(3.14159265359,exponent)")
+plt.title("Difference in Time Between Recursive and Iterative \n power(3.14159265359,exponent) on 1000 iterations")
 plt.ylabel("Time (nanoseconds)")
 plt.xlabel("Exponent")
-plt.plot(n,iterative,label="Iterative")
-plt.plot(n,recursive,label="Recursive")
+plt.scatter(n,iterative,label="Iterative")
+plt.scatter(n,recursive,label="Recursive")
 plt.legend()
 plt.show()
